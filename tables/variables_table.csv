@@ -1,0 +1,4 @@
+"","model","variables","info"
+"1","model 1","AGE,WEIGHT,ABDOMEN,THIGH,FOREARM,WRIST","best AIC model with direction 'both' and 'backward'"
+"2","model 2","WEIGHT,ABDOMEN,WRIST","best BIC model with direction 'both' and 'backward'"
+"3","model 3","full model","best model with AIC, BIC forward direction."
