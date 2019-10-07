@@ -1,0 +1,3 @@
+,R-squared,Adjusted R-squared,MSE
+train_set,0.719249769,0.712976021,14.5232863
+test_set,0.697900661,0.682274833,18.8248372
