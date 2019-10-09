@@ -2,7 +2,7 @@
 
 Team Members: Lu Li, Jiawei Wu, Nan Yan, Youhui Ye
 
-R shiny: https://aurorawu1996.shinyapps.io/bodyfat/
+R shiny: https://aurorawu1996.shinyapps.io/bodyfat2/
 
 This is repository about calculating the body fat of men, basing on the features, such as abdomen, weight, wrist and so on.
 
