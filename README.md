@@ -1,6 +1,4 @@
-# 628Module2
-
-UW-Madison 628
+# UW-Madison 628 Module2
 
 Team Members: Lu Li, Jiawei Wu, Nan Yan, Youhui Ye
 
